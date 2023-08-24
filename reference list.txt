@@ -1,0 +1,4 @@
+
+References
+
+reactnative.dev. (2023). Learn the Basics · React Native. [online] Available at: https://reactnative.dev/docs/tutorial#components [Accessed 20 Aug. 2023].
